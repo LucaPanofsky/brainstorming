@@ -19,3 +19,7 @@ Questi aspetti sono importanti perché influenzano i modi in cui andrà finanzia
 ## commento personale 
 
 Dal mio punto di vista, è necessario, prima di procedere oltre, discutere in qualche modo questi punti per arrivare a una sintesi convincente. 
+
+Se siete d'accordo possiamo organizzare questo repository in un modo molto semplice. Si tratta semplicemente di pubblicare documenti che riassumono il nostro brainstorming. Le discussioni invece possiamo svilupparle attraverso le issues, di fatto un forum personalizzabile. 
+
+Il repository è privato ovviamente, anche se è meglio non fare direttamente nomi di potenziali persone da coinvolgere, per questo meglio utilizzare le altre piattaforme. Se vogliamo procedere, vi invito al repository.
