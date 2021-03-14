@@ -22,4 +22,4 @@ Dal mio punto di vista, è necessario, prima di procedere oltre, discutere in qu
 
 Se siete d'accordo possiamo organizzare questo repository in un modo molto semplice. Si tratta semplicemente di pubblicare documenti che riassumono il nostro brainstorming. Le discussioni invece possiamo svilupparle attraverso le issues, di fatto un forum personalizzabile. 
 
-Il repository è privato ovviamente, anche se è meglio non fare direttamente nomi di potenziali persone da coinvolgere, per questo meglio utilizzare le altre piattaforme. Se vogliamo procedere, vi invito al repository.
+Questo repository al momento è provvisorio e sopratutto è pubblico. Se vogliamo procedere in questo modo lo chiudo, lo rendo privato e vi invito al progetto. 
